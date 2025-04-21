@@ -42,6 +42,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
 |   |   |   |   |
-| AdventureWorks-BI-Project | This project showcases a Business Intelligence (BI) workflow using Power BI to analyze data from AdventureWorks Cycles, a fictional manufacturing company. The goal is to track KPIs, regional performance, product trends, and customer insights using interactive dashboards and reports. | | 
+| AdventureWorks-BI-Project |  | PowerBI | This project showcases a Business Intelligence (BI) workflow using Power BI to analyze data from AdventureWorks Cycles, a fictional manufacturing company. The goal is to track KPIs, regional performance, product trends, and customer insights using interactive dashboards and reports.| 
 
 ***
