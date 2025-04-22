@@ -25,6 +25,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Geolocation Enrichment <br> [Query](./sql/enrich_with_address_postcodes.sql)  [Output](./outputs/enriched_personal_data_sample.csv) | 2025-02 | SQL Server | Joined address data to enrich user records with postcode and state values for segmentation and analysis. |
 | Yearly & Cumulative Opt-In Growth <br> [Query](./sql/yearly_cumulative_optin_growth.sql)  [Output](./outputs/yearly_cumulative_optin_growth_sample.csv) | 2024-11 | SQL Server (CTEs) | Used common table expressions (CTEs) to track yearly and cumulative marketing opt-ins over time. |
 | Voucher & Payment Report <br> [Query](./sql/voucher_and_payment_usage_report.sql)  [Output](./outputs/voucher_payment_sample.csv) | 2025-03 | SQL Server, Azure SQL | Reported on participant payments and voucher use (e.g. Active Kids, discount codes) across program data. |
+| Golf Club Regional Membership <br> [Query](./sql/voucher_and_payment_usage_report.sql)  [Output](./outputs/voucher_payment_sample.csv) | 2025-03 | SQL Server, DBeaver | Report on valid club membership in local council regions. |
 
 ***
 
